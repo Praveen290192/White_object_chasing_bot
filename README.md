@@ -8,7 +8,7 @@ $ catkin_make
 $ source devel/setup.bash
 
 #Launching
-launch world.launch from terminal using below command
+Launch world.launch from terminal using below command
 $ roslaunch my_robot world.launch
 
 Open new terminal and make sure to source it 
