@@ -1,6 +1,9 @@
 # White_object_chasing_bot
 In this project bot is using rbg image for identifying white color object in Gazebo environment and chasing it.
 
+## Video link
+https://youtu.be/vngkr6VoVbM
+
 ## Building  
 Clone `ball_chaser` and `my_robot` into the `src` directory of the catkin_workspace `catkin_ws`
 then use below commands to build and source from the catkin_workspace directory
